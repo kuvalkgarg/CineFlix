@@ -37,10 +37,10 @@ npm start
 
 # Snapshots
 ## Trending Page
-![Trending/Home page screenshot](trending.png)
+![Trending/Home page screenshot]()
 
 ## Search Page
-![Search page screenshot](search.png)
+![Search page screenshot]()
 
 ## Content Modal
 ![A screenshot of the content modal pane](content_modal.png)
