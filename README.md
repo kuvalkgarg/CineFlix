@@ -36,7 +36,17 @@ npm start
 9. Details of these users can be collected through MongoDB.
 
 # Snapshots
+## Trending Page
+![Trending page screenshot](trending.png)
 
+## Search Page
+![Search page screenshot](search.png)
+
+## Content Modal
+![A screenshot of the content modal pane](content_modal.png)
+
+## Successfully Signed-Up User Data on MongoDB
+![Screenshot of successfully signed up users on MongoDB](mongo.png)
 
 # Conclusion
 This project provides a user-friendly interface for browsing and searching movies and TV series. It leverages React and Material-UI for a responsive and visually appealing design. With the provided features, users can easily discover new content, explore different genres, and get more information about movies and TV series.
