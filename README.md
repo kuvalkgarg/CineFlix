@@ -37,7 +37,7 @@ npm start
 
 # Snapshots
 ## Trending Page
-![Trending page screenshot](trending.png)
+![Trending/Home page screenshot](trending.png)
 
 ## Search Page
 ![Search page screenshot](search.png)
